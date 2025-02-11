@@ -6,7 +6,7 @@
 
 
 > [!IMPORTANT]
-> If you fork this project, do whatever you want!!
+> "This thang ain't working bud!" so yeah.. This Repo wll be archived! I'll be working on a new version so be patient!
 
 ## Features
 - Clean, Easy to use UI
